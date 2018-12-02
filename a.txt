@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 this is master file
-=======
-this is my feature file 
->>>>>>> featurebranch
+
+adding line to check diff
+
