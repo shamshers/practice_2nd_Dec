@@ -1,5 +1,5 @@
 
-this is master file
+this is FB2 branch file
 
 adding line to check diff
 
